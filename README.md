@@ -1,1 +1,1 @@
-                                                  ALMOST DONE, WILL UPDATE IN GITHUB IN A FEW DAYS
+                            A beginner project trying to make frontend for an ecommerce clothing store, using Reactjs.
